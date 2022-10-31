@@ -13,5 +13,5 @@ It was used Angular with Tailwind and Angular Material. For backend I used an AP
 5.  Navigate to http://localhost:4200/
 6.  Enjoy! 👊
 
-#Screenshot
+## Screenshot
 <img width="1427" alt="Screenshot 2022-10-25 at 11 50 35 PM" src="https://user-images.githubusercontent.com/44535117/197879424-489e8294-7014-4a90-b949-bf59101b2dec.png">
