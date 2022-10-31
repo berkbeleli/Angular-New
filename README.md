@@ -2,6 +2,7 @@
 
 This project was generated with Angular CLI version 14.2.0.
 
+Just a toy project to play with Angular.
 It was used Angular with Tailwind and Angular Material. For backend I used an API called "newsapi.org" that I get the images and text from.
 
 ## How to run it
